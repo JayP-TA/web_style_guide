@@ -1,0 +1,14 @@
+/* CSS HEX 
+--goldenrod: #d5a021ff;
+--metallic-seaweed: #177e89ff;
+--midnight-green-eagle-green: #084c61ff;
+--cg-red: #db3a34ff;
+--jet: #323031ff;
+*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p .color {
+    text-align: center;
+}
