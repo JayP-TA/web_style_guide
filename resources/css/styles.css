@@ -7,10 +7,14 @@
 */
 h1 {
     font-size: 3.5em;
+    font-family: Montserrat;
+    font-weight: bold;
 }
 
 h2 {
     font-size: 2.5em;
+    font-family: "Source Code Pro";
+    font-weight: Bold;
 }
 
 h3 {
@@ -70,7 +74,7 @@ p .color {
 
 div .container-font {
     display: inline-block;
-    padding: 0 7em;
+    padding: 0 6em;
 }
 
 #Montserrat {
@@ -79,4 +83,12 @@ div .container-font {
 
 #SCP {
     font-family: "Source Code Pro";
+}
+
+p .italic {
+    font-style: italic;
+}
+
+p.bold {
+    font-weight: bold;
 }
