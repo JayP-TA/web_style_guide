@@ -5,10 +5,60 @@
 --cg-red: #db3a34ff;
 --jet: #323031ff;
 */
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+header {
+    margin: 4em;
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+div.cont {
+    border: 5px solid grey;
+    margin: 1.5em 4em;
+    padding: 1.5em;
+}
+
+div .container-color {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: auto;
+    height: 12em;
+    width: 12em;
+    margin: 1.5em;
+}
+
+td {
+    text-align: center;
+}
+
 p .color {
     text-align: center;
+}
+
+#goldenrod {
+    background-color: #d5a021ff;
+}
+
+#seaweed {
+    background-color: #177e89ff;
+}
+
+#mgreen {
+    background-color: #084c61ff;
+}
+
+#cgred {
+    background-color: #db3a34ff;
+}
+
+#jet {
+    background-color: #323031ff;
 }
